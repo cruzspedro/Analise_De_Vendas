@@ -21,4 +21,4 @@ A fim de se responder algumas questões, como:
 • Quais clientes são os maiores compradores dos materiais da empresa?\
 • Qual o prazo médio de entrega dos materiais da empresa?\
 • Qual o percentual de entrega no prazo dos materiais da empresa?\
-• Existem padrões ou tendências nos dados que podem ser usados ​​para tomar decisões de negócios?\
+• Existem padrões ou tendências nos dados que podem ser usados ​​para tomar decisões de negócios?
