@@ -12,7 +12,7 @@ Projeto pessoal pautado na análise de dados de um banco de dados de vendas de u
 • Data de entrega solicitada\
 • Data de entrega real\
 • Motivo do atraso (se não for atrasado, aparece como "OnTime")\
-• Quantidade entregue. em quilogramas\
+• Quantidade entregue. em quilogramas
 
 A fim de se responder algumas questões, como:
 
